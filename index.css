@@ -1,0 +1,85 @@
+.top {
+    text-align: center;
+    font-family: arial;
+    margin-left: 150px;
+}
+body {
+    background-color: rgb(167, 160, 160);
+    font-family: Lato;
+}
+.box {
+    background-color: rgb(199, 196, 196);
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    box-shadow: 0 0 15px black;
+}
+h2 {
+    padding: 30px;
+    font-size: 50px;
+}
+.h3 {
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+}
+.img {
+    float: right;
+    padding: 5px;
+    width: 200px;
+    height: 235px;
+    transition: transform 1s;
+}
+.img:hover {
+    transform: scale(1.25); 
+   
+}
+.bbox{
+  
+}
+.exp {
+float: right;
+margin-left: 50px;
+width: 250px;
+}
+.comp {
+    float: right;
+    margin-left: 50px;
+}
+.form {
+    float: right;
+    margin-left: 50px;
+    width: 300px;
+}
+.bbox {
+    width: 1200px;
+    height: 570px;
+    margin-top: 30px;
+
+}
+.msexp,.msform,.mscomp {
+font-size: 35px;
+color: darkred;
+}
+.msform {
+
+}
+.mscomp {
+}
+.img2 {
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 800px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.droite {
+    background-repeat: no-repeat;
+    float: left;
+    width: 3px;
+    height: 8px;
+}
